@@ -1,1 +1,1 @@
-# coursechoice
+# COURSE CHOICE APP
